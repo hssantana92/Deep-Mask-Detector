@@ -1,5 +1,5 @@
 # Deep Face Mask Detector
-A deep learning model created to detect face masks during COVID acheiving 98.5% accuracy.
+A deep learning model created to detect face masks during COVID achieving 98.5% accuracy.
 
 The deep model was trained on a labelled dataset of ~1.7k face mask wearing images and ~1.9k non-face mask images, i.e. just a persons face.
 The images were also horizontally flipped and subject to width and height shifts to increase the dataset.
