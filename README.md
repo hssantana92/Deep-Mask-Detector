@@ -9,9 +9,9 @@ The trained model was then used in combination with a Haar cascade classifier to
 The model could then make a prediciton of whether the person in the frame was wearing a mask or not as displayed below.
 
 # Requirements
-TensorFlow - https://www.tensorflow.org/install
-MatplobLib - https://matplotlib.org/stable/users/installing/index.html
-CV2 - https://pypi.org/project/opencv-python/
+* TensorFlow - https://www.tensorflow.org/install
+* MatplobLib - https://matplotlib.org/stable/users/installing/index.html
+* CV2 - https://pypi.org/project/opencv-python/
 
 # Try It Out
 1. Clone repo
